@@ -1,5 +1,4 @@
 #Dockerfile : maven base image
-
 FROM maven:latest
 
 # Create app directory and use it as working directory
